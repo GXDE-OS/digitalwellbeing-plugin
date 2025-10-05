@@ -1,7 +1,7 @@
 #ifndef HELLOWORLDPLUGIN_H
 #define HELLOWORLDPLUGIN_H
 
-#include <dde-dock/pluginsiteminterface.h>
+#include <gxde-dock/pluginsiteminterface.h>
 #include <QObject>
 #include <QTimer>
 #include "pluginwidget.h"
